@@ -24,3 +24,7 @@ If you change the contents of one of those directories, only that directory will
 `terraform plan` will show you which directories changed (not very usefully).
 
 Do not use this in anything approaching real life.
+
+### Pteraform...?
+
+`terraform` is a reserved provider name. I know right?
